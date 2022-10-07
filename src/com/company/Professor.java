@@ -26,4 +26,20 @@ public class Professor extends Pessoa {
     public void setCurriculo(String curriculo) {
         this.curriculo = curriculo;
     }
+	
+	public double getSalario() {
+        return salario;
+    }
+
+    public void setSalario(double salario) {
+        this.salario = salario;
+    }
+
+    public String getCurriculo() {
+        return curriculo;
+    }
+
+    public void setCurriculo(String curriculo) {
+        this.curriculo = curriculo;
+    }
 }
