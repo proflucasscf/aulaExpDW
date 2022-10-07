@@ -1,2 +1,2 @@
 # aulaExpDW
-teste aula Desenvolvimento Web
+Primeiro exemplo da aula Git
